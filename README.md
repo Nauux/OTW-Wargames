@@ -88,56 +88,57 @@ Level 0
 ==========
 
 ssh bandit0@bandit.labs.overthewire.org -p 2220
-password: ban*****
-cd /home/bandit0
-cat readme
-	boJ9jbb*************
+<br />password: ban*****
+<br />cd /home/bandit0
+<br />cat readme
+<br />	boJ9jbb*************
 
 
 
 Level 1
 ==========
 
-ssh bandit1@bandit.labs.overthewire.org -p 2220
-password: boJ9jbb************
-cd /home/bandit1
-ls -la
-cat ./-   // others alternatives: 
-              rev - | rev 
-              cat < -
-	CV1DtqXWVFXTv***********
+<br />ssh bandit1@bandit.labs.overthewire.org -p 2220
+<br />password: boJ9jbb************
+<br />cd /home/bandit1
+<br />ls -la
+<br />cat ./-   // others alternatives: 
+<br />              rev - | rev 
+<br />              cat < -
+<br />	CV1DtqXWVFXTv***********
 
 
 
 Level 2
 ==========
 
-ssh bandit2@bandit.labs.overthewire.org -p 2220
-password: CV1DtqXWVFXTvM2***********
-ls -la
-cat "spaces in this filename"  // others alternatives:  
-                                  cat + s + Tab
-	UmHadQclWmgdLO***********
+<br />ssh bandit2@bandit.labs.overthewire.org -p 2220
+<br />password: CV1DtqXWVFXTvM2***********
+<br />ls -la
+<br />cat "spaces in this filename"  // others alternatives:  
+<br />                                  cat + s + Tab
+<br />	UmHadQclWmgdLO***********
 
 
 
 Level 3
 ==========
 
-ssh bandit3@bandit.labs.overthewire.org -p 2220
-password: UmHadQclWmgdL**********
-ls -la
-cd inhere
-ls -la
-cat .hidden
-	pIwrPrtPN36QI**********
+<br />ssh bandit3@bandit.labs.overthewire.org -p 2220
+<br />password: UmHadQclWmgdL**********
+<br />ls -la
+<br />cd inhere
+<br />ls -la
+<br />cat .hidden
+<br />	pIwrPrtPN36QI**********
 
 
 
 Level 4
 ==========
-ssh bandit4@bandit.labs.overthewire.org -p 2220
-password: pIwrPrtPN36Q**********
+
+<br />ssh bandit4@bandit.labs.overthewire.org -p 2220
+<br />password: pIwrPrtPN36Q**********
 file ./inhere/*
 cat ./inhere/-file07
 	koReBOKuID**********
