@@ -3,7 +3,7 @@
 *These are dirty notes. Later they will be better structured
 *The passwords of the connections have not been fully displayed. This is a support, it is not to solve your life... Good Luck
 
-
+<br />
 
 Welcome to OverTheWire!
 
