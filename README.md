@@ -8,7 +8,8 @@ The passwords of the connections have not been fully displayed. This is a suppor
 
 <br />
 <br />
-
+<br />
+<br />
 Welcome to OverTheWire!
 
 If you find any problems, please report them to Steven or morla on
