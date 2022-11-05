@@ -1,12 +1,10 @@
 # Level: Bandit
 
 <br />
-<br />
-These are dirty notes. Later they will be better structured
+These are dirty notes. Later they will be better structured.
 <br />
 The passwords of the connections have not been fully displayed. This is a support, it is not to solve your life... Good Luck
 
-<br />
 <br />
 <br />
 <br />
